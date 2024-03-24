@@ -12,7 +12,7 @@ Medium-Clone project! This is a fully-featured blogging platform inspired by Med
 - Typescript
 - Tailwind CSS
 - Shadcn UI
-- cloudinary
+- Cloudinary
 - Resend
 - React email templates
 
